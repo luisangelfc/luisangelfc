@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,java" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 #### 🔧 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,androidstudio,vscode,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,github,gitlab,androidstudio,vscode,ubuntu,bash" />
   </a>
 </p>
 
