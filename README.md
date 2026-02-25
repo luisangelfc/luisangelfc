@@ -17,7 +17,7 @@
 
 ---
 
-- Full-Stack Developer in progress with a strong focus on JavaScript, TypeScript, and modern web technologies like React, Laravel, and SQL databases.
+- Full-Stack Developer in progress with a strong focus on JavaScript, TypeScript, and modern web technologies like React, Angular, and SQL databases.
 - Computer Science student passionate about building functional, clean, and scalable web applications through continuous learning and real-world projects.
 - Problem solver with experience developing academic and personal projects, currently focused on becoming a professional web developer and contributing to impactful software solutions.
 
