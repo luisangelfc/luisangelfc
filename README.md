@@ -116,7 +116,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=luisangelfc&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisangelfc)](https://github.com/anuraghazra/github-readme-stats) 
   
  </div>
  
