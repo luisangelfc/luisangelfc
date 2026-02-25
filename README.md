@@ -112,13 +112,13 @@
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisangelfc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
+<!-- ### 📊 Most Used Language
 
  <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisangelfc)](https://github.com/anuraghazra/github-readme-stats) 
   
- </div>
+ </div> -->
  
  <!-- ### 🏆 Profile Trophies
 
