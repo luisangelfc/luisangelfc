@@ -61,12 +61,21 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) -->
 
+#### 📂 DataBases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
 #### 🔧 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,github,gitlab,androidstudio,vscode,ubuntu,bash" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,androidstudio,vscode,ubuntu,bash" />
   </a>
 </p>
+
+
 
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
