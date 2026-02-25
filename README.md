@@ -17,9 +17,9 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- Full-Stack Developer in progress with a strong focus on JavaScript, TypeScript, and modern web technologies like React, Laravel, and SQL databases.
+- Computer Science student passionate about building functional, clean, and scalable web applications through continuous learning and real-world projects.
+- Problem solver with experience developing academic and personal projects, currently focused on becoming a professional web developer and contributing to impactful software solutions.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -123,14 +123,11 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
 
 ---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
 ------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
 Last Edited on: 26/02/2025
