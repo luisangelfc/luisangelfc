@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&&color=0:EEFF00,100:a82da8&reversal=true />
 </div>
 
 <h3 align="center">
@@ -43,7 +43,7 @@
 #### 🖥️ Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,node.js.net" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs.net" />
   </a>
 </p>
 <!-- 
@@ -71,7 +71,7 @@
 #### 🔧 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,androidstudio,vscode,ubuntu,bash" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,androidstudio,vscode,ubuntu,bash,notion," />
   </a>
 </p>
 
