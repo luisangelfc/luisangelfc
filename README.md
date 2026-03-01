@@ -40,7 +40,7 @@
   </a>
 </p>
 
-#### 🖥️ Frameworks
+#### 🖥️ Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,nodejs.net" />
