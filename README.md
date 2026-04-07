@@ -142,10 +142,10 @@
 ### 🔗 &nbsp;Contact Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/luisangelhm04">
+  <a href="https://www.linkedin.com/in/luisangelhm04">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="www.instagram.com">
+  <a href="https://www.instagram.com/angelmtzzz_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
